@@ -1,0 +1,5 @@
+{
+  "buildCommand": "docker build -t php-app .",
+  "outputDirectory": ".",
+  "framework": null
+}
